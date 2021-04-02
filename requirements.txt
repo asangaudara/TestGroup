@@ -55,6 +55,5 @@ wget
 fake-useragent
 asyncio
 git+https://github.com/pyrogram/pyrogram
-TgCrypto
 git+https://github.com/pytgcalls/pytgcalls
 python-dotenv
